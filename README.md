@@ -23,3 +23,6 @@ Test Accuracy (Overall): 74% (7401/10000)
 model is doing really poorly in classifying animals especially those with varying colors like cats and birds. 
 Create another Convolutional layer that classifies finer details such as colors. 
 A lower learning rate also, so that there's is faster convergence. Augmentation might also improve the model.
+
+# sample predictions
+![sample predictions](image/cifar.png)
