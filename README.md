@@ -25,4 +25,4 @@ Create another Convolutional layer that classifies finer details such as colors.
 A lower learning rate also, so that there's is faster convergence. Augmentation might also improve the model.
 
 # sample predictions
-![sample predictions](image/cifar.png)
+![sample predictions](images/cifar.png)
